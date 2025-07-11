@@ -1,0 +1,4 @@
+opencv-python==4.12.0.0
+numpy>=1.21
+tensorflow>=2.12
+pygame>=2.6

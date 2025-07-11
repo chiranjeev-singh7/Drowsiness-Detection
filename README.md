@@ -45,6 +45,7 @@ Only the eye images were used for the basic drowsiness detection implemented her
 
 ## 💻 Project Structure
 
+```
 .
 ├── haar cascade files/
 │   ├── haarcascade_frontalface_alt.xml
@@ -52,11 +53,11 @@ Only the eye images were used for the basic drowsiness detection implemented her
 │   └── haarcascade_righteye_2splits.xml
 ├── data/
 │   ├── train/
-│   │    ├── Closed/
-│   │    └── Open/
+│   │   ├── Closed/
+│   │   └── Open/
 │   └── test/
-│        ├── Closed/
-│        └── Open/
+│       ├── Closed/
+│       └── Open/
 ├── models/
 │   └── eye_model.keras
 ├── alarm.wav
@@ -64,6 +65,8 @@ Only the eye images were used for the basic drowsiness detection implemented her
 ├── drowsiness_detection.py
 ├── requirements.txt
 └── README.md
+```
+
 
 
 ---
@@ -140,3 +143,8 @@ python drowsiness_detection.py
 Press q to quit the webcam window.
 
 ## 📷 Demo
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/feae5812-c8b2-4699-8fe9-31c36873dc63" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/28c43020-fc13-4806-bd15-f0cfb01e1f26" />
+
+
